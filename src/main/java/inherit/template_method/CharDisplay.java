@@ -1,4 +1,4 @@
-package inherit.templatemethod;
+package inherit.template_method;
 
 /**
  * @ClassName:CharDisplay
