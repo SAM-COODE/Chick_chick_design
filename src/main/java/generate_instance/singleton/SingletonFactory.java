@@ -8,4 +8,6 @@ package generate_instance.singleton;
  **/
 public abstract class SingletonFactory {
     public abstract Singletion getInstance();
+
+    public abstract void destory();
 }

@@ -19,7 +19,6 @@ public class DoubleCheckSingletonFactory extends SingletonFactory {
      **/
     private volatile static Singletion singleton;
 
-
     @Override
     public  Singletion getInstance(){
         if(null==singleton){
@@ -32,5 +31,10 @@ public class DoubleCheckSingletonFactory extends SingletonFactory {
             }
         }
         return singleton;
+    }
+
+    @Override
+    public void destory() {
+        singleton = null;
     }
 }

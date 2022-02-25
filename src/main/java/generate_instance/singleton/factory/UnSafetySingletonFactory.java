@@ -21,4 +21,9 @@ public class UnSafetySingletonFactory extends SingletonFactory {
         }
         return singletion;
     }
+
+    @Override
+    public void destory() {
+        singletion = null;
+    }
 }

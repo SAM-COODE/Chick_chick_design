@@ -18,4 +18,8 @@ public class SunLockSingletonFactory extends SingletonFactory {
         //此时初始化子类,执行子类中静态方法
         return InstanceHolder.singletion;
     }
+    @Override
+    public void destory() {
+        InstanceHolder.singletion = null;
+    }
 }
