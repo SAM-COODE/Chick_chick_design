@@ -4,7 +4,7 @@ package inherit.factory_method;
  * @ClassName:Runner
  * @Author:wangsw17
  * @Dtae:2022/2/24 16:22
- * @Description:TODO
+ * @Description:
  **/
 public class Runner {
     /**

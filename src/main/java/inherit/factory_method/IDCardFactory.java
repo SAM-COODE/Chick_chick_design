@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * @ClassName:IDCardFactory
  * @Author:wangsw17
  * @Dtae:2022/2/24 16:10
- * @Description:TODO
+ * @Description:
  **/
 public class IDCardFactory extends ProductFactory{
 

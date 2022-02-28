@@ -6,7 +6,7 @@ import java.util.concurrent.*;
  * @ClassName:MultiThreadUtil
  * @Author:wangsw17
  * @Dtae:2022/2/24 17:52
- * @Description:TODO
+ * @Description:
  **/
 public abstract class MultiThreadUtil {
 

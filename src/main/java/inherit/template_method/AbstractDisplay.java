@@ -4,7 +4,7 @@ package inherit.template_method;
  * @ClassName:AbstractDisplay
  * @Author:wangsw17
  * @Dtae:2022/2/24 14:22
- * @Description:TODO
+ * @Description:
  **/
 public abstract class AbstractDisplay {
     protected abstract void open();

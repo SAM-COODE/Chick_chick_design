@@ -7,7 +7,7 @@ import generate_instance.singleton.SingletonFactory;
  * @ClassName:SunLockSingleton
  * @Author:wangsw17
  * @Dtae:2022/2/24 17:26
- * @Description:TODO
+ * @Description:
  **/
 public class SunLockSingletonFactory extends SingletonFactory {
     private static class InstanceHolder{

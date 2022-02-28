@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * @ClassName:BookSelfArrayList
  * @Author:wangsw17
  * @Dtae:2022/2/18 17:46
- * @Description:TODO
+ * @Description:
  **/
 public class BookSelf implements Aggregate {
     private ArrayList<Book> books;

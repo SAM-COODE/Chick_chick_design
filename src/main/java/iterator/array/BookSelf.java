@@ -8,7 +8,7 @@ import iterator.Iterator;
  * @ClassName:BookSelf
  * @Author:wangsw17
  * @Dtae:2022/2/18 16:33
- * @Description:TODO
+ * @Description:
  **/
 public class BookSelf implements Aggregate {
     private Book[] books;

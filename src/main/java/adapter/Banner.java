@@ -4,7 +4,7 @@ package adapter;
  * @ClassName:Banner
  * @Author:wangsw17
  * @Dtae:2022/2/24 10:50
- * @Description:TODO
+ * @Description:
  **/
 public class Banner {
     private String slogan;

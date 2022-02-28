@@ -4,7 +4,7 @@ package inherit.factory_method;
  * @ClassName:ProductFactory
  * @Author:wangsw17
  * @Dtae:2022/2/24 16:06
- * @Description:TODO
+ * @Description:
  **/
 public abstract class ProductFactory {
 

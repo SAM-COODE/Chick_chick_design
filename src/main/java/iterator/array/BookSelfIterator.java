@@ -7,7 +7,7 @@ import iterator.Iterator;
  * @ClassName:BookSelfIterator
  * @Author:wangsw17
  * @Dtae:2022/2/18 16:34
- * @Description:TODO
+ * @Description:
  **/
 public class BookSelfIterator implements Iterator<Book> {
     private BookSelf bookSelf;

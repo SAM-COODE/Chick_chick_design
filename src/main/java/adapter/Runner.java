@@ -7,7 +7,7 @@ import adapter.inherit.Print;
  * @ClassName:Runner
  * @Author:wangsw17
  * @Dtae:2022/2/24 11:07
- * @Description:TODO
+ * @Description:
  **/
 public class Runner {
     public static void main(String[] args) {

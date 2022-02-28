@@ -4,7 +4,7 @@ package inherit.template_method;
  * @ClassName:StringDisplay
  * @Author:wangsw17
  * @Dtae:2022/2/24 14:27
- * @Description:TODO
+ * @Description:
  **/
 public class StringDisplay extends AbstractDisplay{
     private String message;

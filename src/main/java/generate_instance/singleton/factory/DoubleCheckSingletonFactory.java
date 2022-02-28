@@ -7,7 +7,7 @@ import generate_instance.singleton.SingletonFactory;
  * @ClassName:DoubleCheckSingleton
  * @Author:wangsw17
  * @Dtae:2022/2/24 16:40
- * @Description:TODO
+ * @Description:
  **/
 public class DoubleCheckSingletonFactory extends SingletonFactory {
     /**

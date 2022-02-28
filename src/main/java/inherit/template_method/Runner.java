@@ -4,7 +4,7 @@ package inherit.template_method;
  * @ClassName:Runner
  * @Author:wangsw17
  * @Dtae:2022/2/24 15:14
- * @Description:TODO
+ * @Description:
  **/
 public class Runner {
     public static void main(String[] args) {
