@@ -1,6 +1,6 @@
-package generate_instance.Bullder;
+package generate_instance.builder;
 
-import generate_instance.Bullder.test.DickAroundBuilder;
+import generate_instance.builder.test.DickAroundBuilder;
 
 /**
  * @ClassName:Runner

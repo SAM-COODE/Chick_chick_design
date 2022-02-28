@@ -1,4 +1,4 @@
-package generate_instance.Bullder;
+package generate_instance.builder;
 
 /**
  * @ClassName:TextBuilder
