@@ -9,6 +9,11 @@ import generate_instance.builder.test.DickAroundBuilder;
  * @Description:TODO
  **/
 public class Runner {
+    /**
+     * 建造者模式
+     * 组件实现与设计组装设计分离?
+     * @param args
+     */
     public static void main(String[] args) {
         Director director = new Director(new HtmlBuilder());
         director.construct();
